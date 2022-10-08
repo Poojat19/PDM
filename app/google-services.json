@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197176799999",
+    "project_id": "pervasivedisastermanager",
+    "storage_bucket": "pervasivedisastermanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197176799999:android:d9816dab6b3a15bdae12ca",
+        "android_client_info": {
+          "package_name": "com.example.pervasivedisastermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197176799999-gpn685b3fj3fplf5tc8ettp2qda7lvri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pervasivedisastermanager",
+            "certificate_hash": "e44b83cdb71c1ebdcd68e32700e4def3f91fc38f"
+          }
+        },
+        {
+          "client_id": "197176799999-4vnh95vpr0r11vv3rq1rlg4amg09t53n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcQd8P38IGaz8CQrMQ-fl0EiAwjLWPvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197176799999-4vnh95vpr0r11vv3rq1rlg4amg09t53n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
